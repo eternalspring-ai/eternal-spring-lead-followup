@@ -1,0 +1,14 @@
+{
+  "name": "eternal-spring-lead-followup",
+  "displayName": "Eternal Spring Lead Follow-Up",
+  "version": "1.0.0",
+  "description": "Draft-only helpers for small businesses: missed-call text-back drafts, a 30-day lead follow-up sequence, and lead qualifying questions. Never sends messages; the business approves everything.",
+  "author": { "name": "Eternal Spring", "email": "sales@eternalspringai.com" },
+  "homepage": "https://eternalspringai.com",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": ["small-business", "lead-follow-up", "missed-calls", "sms-drafts", "sales"],
+  "category": "productivity",
+  "tags": ["small-business", "leads", "follow-up", "drafts"],
+  "skills": "./skills/"
+}
